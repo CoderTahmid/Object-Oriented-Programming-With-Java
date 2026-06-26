@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation.Bank;
 
 class Account{
     public String name;

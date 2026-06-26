@@ -32,13 +32,13 @@ public class Polymorphism {
         s1.printInfo(s1.name); // Output: Tahmid
 
         /*
-        Ekhane amra dekhte partasi je
-        ei printInfo function tar name same e ase
-        but kaj different different kortase
-        ekbar name print kortase, ekbar age. 
-        and ei concept kei polymorphism bole
-        and ebhabe function name same rekhe different kaj korake function overloading bole
-        and each function e must kono ekta differentiating factor thakte hbeh must. 
+         * Ekhane amra dekhte partasi je
+         * ei printInfo function tar name same e ase
+         * but kaj different different kortase
+         * ekbar name print kortase, ekbar age.
+         * and ei concept kei polymorphism bole
+         * and ebhabe function name same rekhe different kaj korake function overwritting bole
+         * and each function e must kono ekta differentiating factor thakte hbeh must.
          */
     }
 }
