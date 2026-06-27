@@ -76,7 +76,7 @@ class Dog extends Mammal implements Pet {
     }
 }
 
-class Eagle extends Bird{
+class Eagle extends Bird {
     Eagle(String name, int age) {
         super(name, age);
     }
@@ -86,7 +86,7 @@ class Eagle extends Bird{
     }
 }
 
-public class PracticeFile {
+public class AnimalHierarchy {
     public static void main(String args[]) {
         Dog dog = new Dog("Buddy", 3);
         Eagle eagle = new Eagle("King", 20);
@@ -106,7 +106,5 @@ public class PracticeFile {
 
         Animal a1 = new Dog("Tahmid", 20);
         Animal a2 = new Eagle("Tking", 3342);
-
-        
     }
 }

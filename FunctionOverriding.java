@@ -9,7 +9,7 @@ class Dog extends Animal {
         System.out.println("Ghew Ghew");
     }
 }
-x
+
 public class FunctionOverriding {
     public static void main(String args[]) {
         Dog d = new Dog();
